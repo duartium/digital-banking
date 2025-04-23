@@ -1,0 +1,118 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.7.17 Chrome/128.0.6613.36 Electron/32.0.1 Safari/537.36" version="24.7.17">
+  <diagram name="Página-1" id="KKsaG1l4kRRsD33VkrkY">
+    <mxGraphModel dx="1222" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="aVBGOggo3_6Yv5FDYEzX-4" value="&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;fontColor=#ffffff;strokeColor=#001DBC;strokeWidth=3;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
+          <mxGeometry x="91" y="102" width="990" height="1258" as="geometry" />
+        </mxCell>
+        <mxCell id="9mu4wfoIQscscX4sOKQY-1" value="&lt;span style=&quot;color: rgb(255, 255, 255); font-family: Helvetica; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(27, 29, 30); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;APP WEB SPA (ANGULAR / REACT)&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fillColor=none;fontSize=16;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="121" y="112" width="309" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9mu4wfoIQscscX4sOKQY-11" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
+          <mxGeometry x="124.5" y="838" width="462.75" height="257.87" as="geometry" />
+        </mxCell>
+        <mxCell id="SHru1jVqG_V0NLp7WXUe-1" value="&lt;b style=&quot;font-size: 17px;&quot;&gt;Autenticación y Onboarding&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=17;" parent="1" vertex="1">
+          <mxGeometry x="117.25" y="803" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SHru1jVqG_V0NLp7WXUe-6" value="RECONOCIMIENTO FACIAL" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="408.79" y="869.87" width="140" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="SHru1jVqG_V0NLp7WXUe-31" value="Autenticación con OAuth 2.0" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="149.5" y="869.87" width="120" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="SHru1jVqG_V0NLp7WXUe-32" value="JWT" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="279.5" y="869.87" width="110" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="inAE84fqyni1bRh0jjxP-4" value="AUDITORÍA Y MONITOREO A TRAVÉS DE LOGS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="149.38" y="974.87" width="397.75" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="inAE84fqyni1bRh0jjxP-5" value="NOTIFICACIÓN DE MOVIMIENTO AL CLIENTE" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="151.37" y="1025.87" width="396.21" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="inAE84fqyni1bRh0jjxP-6" value="ACEPTACIÓN DE USO DE DATOS PERSONALES" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="149.5" y="925.87" width="397.75" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="inAE84fqyni1bRh0jjxP-7" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="654.06" y="932" width="346.19" height="217.87" as="geometry" />
+        </mxCell>
+        <mxCell id="inAE84fqyni1bRh0jjxP-8" value="&lt;span style=&quot;color: rgb(255, 255, 255); font-family: Helvetica; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(27, 29, 30); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;APP MOVIL REACT NATIVE&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fillColor=none;fontSize=16;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="740" y="115" width="309" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="inAE84fqyni1bRh0jjxP-11" value="TRANSFERENCIAS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="673.4300000000001" y="1035.87" width="280" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="inAE84fqyni1bRh0jjxP-12" value="HISTORICO DE MOVIMIENTOS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="673.4300000000001" y="975.87" width="280" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="inAE84fqyni1bRh0jjxP-13" value="&lt;b style=&quot;font-size: 17px;&quot;&gt;Dashboard&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="654.06" y="918" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="inAE84fqyni1bRh0jjxP-14" value="PAGOS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="671.2500000000001" y="1095.87" width="280" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="inAE84fqyni1bRh0jjxP-17" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;Lazy Loading&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;Compresión de imágenes automática&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;CDN (Content Delivery Network)&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="119.11999999999999" y="1186" width="919" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="inAE84fqyni1bRh0jjxP-19" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="117.25" y="210" width="922.75" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="inAE84fqyni1bRh0jjxP-20" value="&lt;b style=&quot;font-size: 17px;&quot;&gt;Presentación UI&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="110" y="170" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="inAE84fqyni1bRh0jjxP-21" value="STORYBOOK DE COMPONENTES REUTILIZABLES&amp;nbsp; BAJO LINEA GRAFICA" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="327.26" y="279" width="583.37" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="inAE84fqyni1bRh0jjxP-22" value="SYSTEM DESIGN CSS CON LINEA GRÁFICA DEL BANCO BASADO EN TAILWINDCSS Y MATERIAL UI" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="327.25" y="229.5" width="583.38" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="inAE84fqyni1bRh0jjxP-24" value="LIBRERIA PARA IMPORTAR EN FUTUROS SISTEMAS Y SE MANTENGA EL DISEÑO" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="327.25" y="329.5" width="583.37" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="inAE84fqyni1bRh0jjxP-27" value="&lt;b style=&quot;font-size: 17px;&quot;&gt;Capa Infraestructura&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="109.25" y="430" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="inAE84fqyni1bRh0jjxP-28" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="121" y="460" width="922.75" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="inAE84fqyni1bRh0jjxP-29" value="ZUSTAND PARA&amp;nbsp; EL MANEJO DE ESTADO" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="149.38" y="490" width="260.62" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="inAE84fqyni1bRh0jjxP-31" value="CLASE VALIDADOR" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="490" width="260.62" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="inAE84fqyni1bRh0jjxP-32" value="Middleware de autenticación" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="730" y="490" width="260.62" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="inAE84fqyni1bRh0jjxP-33" value="CONTROLADOR DE PETICIONES HTTP&amp;nbsp; AXIOS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="151.37" y="550" width="318.63" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="inAE84fqyni1bRh0jjxP-34" value="CLASE DE UTILIDADES" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="550" width="210" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="inAE84fqyni1bRh0jjxP-36" value="&lt;b style=&quot;font-size: 17px;&quot;&gt;Capa Dominio&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="115" y="630" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="inAE84fqyni1bRh0jjxP-38" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="123" y="660" width="922.75" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="inAE84fqyni1bRh0jjxP-39" value="ENTIDADES" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="151.37" y="670" width="148.63" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="inAE84fqyni1bRh0jjxP-40" value="INTERFACES" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="321.37" y="670" width="148.63" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="inAE84fqyni1bRh0jjxP-41" value="DTOS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="670" width="148.63" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="inAE84fqyni1bRh0jjxP-44" value="ESTRUCTURA DE CARPETAS DE ACUERDO A DOMINIO (DDD)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="149.38" y="720" width="880.62" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="inAE84fqyni1bRh0jjxP-47" value="API Handling" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="730" y="550" width="260.62" height="41" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
